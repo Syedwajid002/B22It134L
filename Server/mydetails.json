@@ -1,0 +1,14 @@
+{
+    companyName: 'goMart',
+    clientID: '9e4b894b-2faf-4c63-9a75-4473065954ae',
+    clientSecret: 'cZNFMCZDMxfcEUSD',
+    ownerName: 'Wajid',
+    ownerEmail: 'wajid@gmail.com',
+    rollNo: '134'
+  }
+
+  {
+    token_type: 'Bearer',
+    access_token: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzIxODg0OTQ4LCJpYXQiOjE3MjE4ODQ2NDgsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjllNGI4OTRiLTJmYWYtNGM2My05YTc1LTQ0NzMwNjU5NTRhZSIsInN1YiI6IndhamlkQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6ImdvTWFydCIsImNsaWVudElEIjoiOWU0Yjg5NGItMmZhZi00YzYzLTlhNzUtNDQ3MzA2NTk1NGFlIiwiY2xpZW50U2VjcmV0IjoiY1pORk1DWkRNeGZjRVVTRCIsIm93bmVyTmFtZSI6IldhamlkIiwib3duZXJFbWFpbCI6IndhamlkQGdtYWlsLmNvbSIsInJvbGxObyI6IjEzNCJ9.yOHToPZs5DbcRGvygmETAh4pTba3NgKK_84EV5-zfRM',
+    expires_in: 1721884948
+  }
